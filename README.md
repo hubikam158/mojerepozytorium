@@ -1,4 +1,4 @@
-# mojerepozytorium
+# myFirstRepository
 My first GIT repository
 
 I am a graduate of a very demanding faculty of the Warsaw University of Technology.
